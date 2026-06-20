@@ -1,0 +1,11 @@
+{
+  "name": "Pramod Sawant - Chief Minister",
+  "description": "MetaPoliticals collectible candidate NFT",
+  "image": "https://cdn.jsdelivr.net/gh/jagruti892/metapoliticals-images@main/PromodSawant.png",
+  "attributes": [
+    {"trait_type": "Name", "value": "Pramod Sawant"},
+    {"trait_type": "Role", "value": "Chief Minister"},
+    {"trait_type": "Party", "value": "BJP"},
+    {"trait_type": "State", "value": "Goa"}
+  ]
+}
